@@ -85,13 +85,13 @@ superstore-sales-analysis/
 ## 📊 Visualizations
 
 ### Sales by Category
-![Sales and Profit by Category](images\sales and profit by category.png)
+![Sales and Profit by Category](images\sales_and_profit_by_category.png)
 
 ### Profit by Category
-![Sales and Profit by Region](images/sales and profit by region.png)
+![Sales and Profit by Region](images\sales_and_profit_by_region.png)
 
 ### Discount vs Profit
-![Discount vs Profit](images/discount_vs_profit.png)
+![Discount vs Profit](images\discount_vs_profit(2D-Historam).png)
 
 ### Top 10  Sales Trend
 ![Top 10 Sales Trend](images\Top-10-products.png)
@@ -111,3 +111,4 @@ Focusing on **high-margin products**, **optimizing discounts**, and **targeting 
 
 ## 📝 Author
 **Mokshagna Yadav** – Data Analyst | Python | EDA | Portfolio Project  
+
